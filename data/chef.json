@@ -1,0 +1,183 @@
+[
+    {
+        "id": "1",
+        "name": "Dominique Crenn",
+        "image": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/DominiqueCrenn%C2%A9Jordan-Wise_1.jpg",
+        "experience": "8 Years",
+        "numberOfRecipe": "13",
+        "likes": "123k",
+        "description": "French-born Dominique Crenn is the first female chef in the USA to hold three Michelin stars, which she was awarded for her San Francisco restaurant Atelier Crenn in 2019. Known for her French inspired food and seasonal menus, Crenn is also the proprietor of the one Michelin starred Bar Crenn, an elegant Parisian-style wine bar serving small plates, and Petit Crenn, a French-style bistro. Crenn is committed to sustainable cuisine, removing land-based meat from all her restaurants in 2019, and sourcing the majority of her ingredients from her own farm. When the Michelin Guide introduced the green star in 2020, both Atelier Crenn and Bar Crenn were among the first establishments to be recognized.",
+        "recipes":[
+            {
+                "recipeName": "Roasted Cabbage",
+                "recipeImg": "https://images.ctfassets.net/3s5io6mnxfqz/2tUg4UUfDSSdM4wsT3TGkD/b348d988332d561add785ab406b477f4/Hale_Crenn_FoodShoot_122.jpg?w=828",
+                "ingredients": ["Cabbage","parsley","Sauerkraut", "Sherry vinegar", "Lemon juice"],
+                "cooking": "Sear the cabbage, occasionally spooning oil from the pan over the wedges. Make parsley oil by combining grapeseed oil and fresh parsley in a blender, then straining it through a fine-mesh strainer lined with a coffee filter. Squeeze the liquid from four tablespoons of sauerkraut, then bring the liquid to a simmer before whisking in crème fraîche, sherry vinegar, and lemon juice. Warm the sauerkraut in a separate pan. To serve, place the roasted cabbage and warmed saurkraut next to each other in the center of the plate. Pour the parsley oil crème fraîche sauce around one side of the roasted cabbage."
+            },
+            {
+                "recipeName": "French Casserole—With Veggies",
+                "recipeImg": "https://robbreport.com/wp-content/uploads/2022/03/Hale_Crenn_Vegetable_Parmentier.jpg?w=1000",
+                "ingredients": ["Gold potatoes","Butter","Squash and Zucchini", "Vegetable stock", "Comte cheeze"],
+                "cooking": "The mashed potatoes placed in a medium pot and cover them with at least 1 inch of cold water. Bring the water to a boil over medium-high heat, then lower the heat to medium in order to maintain a simmer. Cook the potatoes until they’re soft and tender when tested with a knife, about 15 to 20 minutes. In a small saucepan, warm the milk over medium-low heat, but do not bring the liquid to a boil. Using a spider skimmer, scoop the potatoes out of the water and strain them, letting all of the water drain out. Empty any excess water from the pot.Add the butter to the pot of potatoes and mash the ingredients with the potato masher."
+            },
+            {
+                "recipeName": "Pink Grapefruit and Avocado Salad",
+                "recipeImg": "https://www.foodandwine.com/thmb/tvO5s2gX4MsPWETcjlRAwgEL6TM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201011-xl-pink-grapefruit-and-avocado-salad-bc58a373e6b24f998baa36b1d6de65d1.jpg",
+                "ingredients": ["Ruby grapefruits","White wine vinegar","Hass avocados", "Ground pepper", "Chervil leaves"],
+                "cooking": "Using a sharp knife, cut the skin and all of the bitter white pith off of the grapefruits. Working over a bowl, cut in between the membranes to release the sections. Squeeze the juice from the membranes into the bowl. Transfer 2 tablespoons of the juice to another bowl. Add the zest, shallot and vinegar; let the dressing stand for 10 minutes. Season the avocado with salt and arrange on plates with the grapefruit sections. Stir the oil into the dressing; season with salt and pepper. Drizzle onto the grapefruit and avocado, garnish with the chervil and serve."
+            }
+        ],
+        "rating": "5"
+    },
+    {
+        "id": "2",
+        "name": "Alice Waters",
+        "image": "https://www.prhspeakers.com/wp-content/uploads/2013/10/Waters_Alice_940_529_72-ppi.jpg",
+        "experience": "9 Years",
+        "numberOfRecipe": "11",
+        "likes": "133k",
+        "description": "Alice Waters is chef patron of Berkeley’s legendary Chez Panisse, the birthplace of California cuisine. Opened in 1971, at a time when US cuisine was characterised by convenience and exaggerated technique, the simple, sustainable fare at Chez Panisse radically broke the mould. From the outset, Waters demanded local, seasonal ingredients that were organically and sustainably grown, and the influence of these principles can be seen in the work of America’s leading chefs today. Waters is also a national public policy advocate for school lunch reform and universal access to healthy, organic foods. She created the Edible Schoolyard program in 1995 and the Chez Panisse Foundation in 1996.",
+        "recipes":[
+            {
+                "recipeName": "Roasted Cabbage",
+                "recipeImg": "https://images.ctfassets.net/3s5io6mnxfqz/2tUg4UUfDSSdM4wsT3TGkD/b348d988332d561add785ab406b477f4/Hale_Crenn_FoodShoot_122.jpg?w=828",
+                "ingredients": ["Cabbage","parsley","Sauerkraut", "Sherry vinegar", "Lemon juice"],
+                "cooking": "Sear the cabbage, occasionally spooning oil from the pan over the wedges. Make parsley oil by combining grapeseed oil and fresh parsley in a blender, then straining it through a fine-mesh strainer lined with a coffee filter. Squeeze the liquid from four tablespoons of sauerkraut, then bring the liquid to a simmer before whisking in crème fraîche, sherry vinegar, and lemon juice. Warm the sauerkraut in a separate pan. To serve, place the roasted cabbage and warmed saurkraut next to each other in the center of the plate. Pour the parsley oil crème fraîche sauce around one side of the roasted cabbage."
+            },
+            {
+                "recipeName": "French Casserole—With Veggies",
+                "recipeImg": "https://robbreport.com/wp-content/uploads/2022/03/Hale_Crenn_Vegetable_Parmentier.jpg?w=1000",
+                "ingredients": ["Gold potatoes","Butter","Squash and Zucchini", "Vegetable stock", "Comte cheeze"],
+                "cooking": "The mashed potatoes placed in a medium pot and cover them with at least 1 inch of cold water. Bring the water to a boil over medium-high heat, then lower the heat to medium in order to maintain a simmer. Cook the potatoes until they’re soft and tender when tested with a knife, about 15 to 20 minutes. In a small saucepan, warm the milk over medium-low heat, but do not bring the liquid to a boil. Using a spider skimmer, scoop the potatoes out of the water and strain them, letting all of the water drain out. Empty any excess water from the pot.Add the butter to the pot of potatoes and mash the ingredients with the potato masher."
+            },
+            {
+                "recipeName": "Pink Grapefruit and Avocado Salad",
+                "recipeImg": "https://www.foodandwine.com/thmb/tvO5s2gX4MsPWETcjlRAwgEL6TM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201011-xl-pink-grapefruit-and-avocado-salad-bc58a373e6b24f998baa36b1d6de65d1.jpg",
+                "ingredients": ["Ruby grapefruits","White wine vinegar","Hass avocados", "Ground pepper", "Chervil leaves"],
+                "cooking": "Using a sharp knife, cut the skin and all of the bitter white pith off of the grapefruits. Working over a bowl, cut in between the membranes to release the sections. Squeeze the juice from the membranes into the bowl. Transfer 2 tablespoons of the juice to another bowl. Add the zest, shallot and vinegar; let the dressing stand for 10 minutes. Season the avocado with salt and arrange on plates with the grapefruit sections. Stir the oil into the dressing; season with salt and pepper. Drizzle onto the grapefruit and avocado, garnish with the chervil and serve."
+            }
+        ],
+        "rating": "4.9"
+    },
+    {
+        "id": "3",
+        "name": "Catherine Ann Cora",
+        "image": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/Catherine_ann_cora_%C2%A9courtesyofCatherineAnnCora_0.jpg",
+        "experience": "5 Years",
+        "numberOfRecipe": "9",
+        "likes": "98k",
+        "description": "Catherine Ann 'Cat' Cora will be best known to millions of Americans for her role on Food Network's Iron Chef of America, where she served as the show's only female Iron Chef for ten series from 2005. She was also co-host of Bravo's Around the World in 80 Plates, and owns multiple restaurants in the US and abroad, including the award-winning Ocean by Cat Cora, Kouzzina by Cat Cora at Disney World, CCQ at Macy's, Postino in San Francisco's East Bay, Mesa Burger in Santa Barbara, Cat Cora's Taproom in the Detroit Metro Airport and Cat Cora's Kitchen in various airport locations throughout the US, as well as Olilo by Cat Cora and Wicked Eats by Cat Cora, with over 500 pop-ups across the country.",
+        "recipes":[
+            {
+                "recipeName": "Roasted Cabbage",
+                "recipeImg": "https://images.ctfassets.net/3s5io6mnxfqz/2tUg4UUfDSSdM4wsT3TGkD/b348d988332d561add785ab406b477f4/Hale_Crenn_FoodShoot_122.jpg?w=828",
+                "ingredients": ["Cabbage","parsley","Sauerkraut", "Sherry vinegar", "Lemon juice"],
+                "cooking": "Sear the cabbage, occasionally spooning oil from the pan over the wedges. Make parsley oil by combining grapeseed oil and fresh parsley in a blender, then straining it through a fine-mesh strainer lined with a coffee filter. Squeeze the liquid from four tablespoons of sauerkraut, then bring the liquid to a simmer before whisking in crème fraîche, sherry vinegar, and lemon juice. Warm the sauerkraut in a separate pan. To serve, place the roasted cabbage and warmed saurkraut next to each other in the center of the plate. Pour the parsley oil crème fraîche sauce around one side of the roasted cabbage."
+            },
+            {
+                "recipeName": "French Casserole—With Veggies",
+                "recipeImg": "https://robbreport.com/wp-content/uploads/2022/03/Hale_Crenn_Vegetable_Parmentier.jpg?w=1000",
+                "ingredients": ["Gold potatoes","Butter","Squash and Zucchini", "Vegetable stock", "Comte cheeze"],
+                "cooking": "The mashed potatoes placed in a medium pot and cover them with at least 1 inch of cold water. Bring the water to a boil over medium-high heat, then lower the heat to medium in order to maintain a simmer. Cook the potatoes until they’re soft and tender when tested with a knife, about 15 to 20 minutes. In a small saucepan, warm the milk over medium-low heat, but do not bring the liquid to a boil. Using a spider skimmer, scoop the potatoes out of the water and strain them, letting all of the water drain out. Empty any excess water from the pot.Add the butter to the pot of potatoes and mash the ingredients with the potato masher."
+            },
+            {
+                "recipeName": "Pink Grapefruit and Avocado Salad",
+                "recipeImg": "https://www.foodandwine.com/thmb/tvO5s2gX4MsPWETcjlRAwgEL6TM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201011-xl-pink-grapefruit-and-avocado-salad-bc58a373e6b24f998baa36b1d6de65d1.jpg",
+                "ingredients": ["Ruby grapefruits","White wine vinegar","Hass avocados", "Ground pepper", "Chervil leaves"],
+                "cooking": "Using a sharp knife, cut the skin and all of the bitter white pith off of the grapefruits. Working over a bowl, cut in between the membranes to release the sections. Squeeze the juice from the membranes into the bowl. Transfer 2 tablespoons of the juice to another bowl. Add the zest, shallot and vinegar; let the dressing stand for 10 minutes. Season the avocado with salt and arrange on plates with the grapefruit sections. Stir the oil into the dressing; season with salt and pepper. Drizzle onto the grapefruit and avocado, garnish with the chervil and serve."
+            }
+        ],
+        "rating": "4.5"
+    },
+    {
+        "id": "4",
+        "name": "Edna Lewis",
+        "image": "https://static01.nyt.com/images/2015/11/01/magazine/01lewis1/01mag-01lewis-t_CA1-superJumbo.jpg",
+        "experience": "12 Years",
+        "numberOfRecipe": "15",
+        "likes": "77k",
+        "description": "Almost fifteen years after her death, multi-award-winning chef and author Edna Lewis remains a key influence on the way we understand Southern and African-American cuisine today. She wrote and co-wrote four books on the subject, and is particularly well-known for her 1976 book The Taste of Country Cooking, which contains both recipes and reminiscences about her childhood growing up in a small Virginia Piedmont farming community of freed slaves. With an emphasis on living with the seasons, the book was ahead of its time in many ways, and enjoyed a surge in popularity in 2017 after it was featured in an episode of Top Chef.",
+        "recipes":[
+            {
+                "recipeName": "Roasted Cabbage",
+                "recipeImg": "https://images.ctfassets.net/3s5io6mnxfqz/2tUg4UUfDSSdM4wsT3TGkD/b348d988332d561add785ab406b477f4/Hale_Crenn_FoodShoot_122.jpg?w=828",
+                "ingredients": ["Cabbage","parsley","Sauerkraut", "Sherry vinegar", "Lemon juice"],
+                "cooking": "Sear the cabbage, occasionally spooning oil from the pan over the wedges. Make parsley oil by combining grapeseed oil and fresh parsley in a blender, then straining it through a fine-mesh strainer lined with a coffee filter. Squeeze the liquid from four tablespoons of sauerkraut, then bring the liquid to a simmer before whisking in crème fraîche, sherry vinegar, and lemon juice. Warm the sauerkraut in a separate pan. To serve, place the roasted cabbage and warmed saurkraut next to each other in the center of the plate. Pour the parsley oil crème fraîche sauce around one side of the roasted cabbage."
+            },
+            {
+                "recipeName": "French Casserole—With Veggies",
+                "recipeImg": "https://robbreport.com/wp-content/uploads/2022/03/Hale_Crenn_Vegetable_Parmentier.jpg?w=1000",
+                "ingredients": ["Gold potatoes","Butter","Squash and Zucchini", "Vegetable stock", "Comte cheeze"],
+                "cooking": "The mashed potatoes placed in a medium pot and cover them with at least 1 inch of cold water. Bring the water to a boil over medium-high heat, then lower the heat to medium in order to maintain a simmer. Cook the potatoes until they’re soft and tender when tested with a knife, about 15 to 20 minutes. In a small saucepan, warm the milk over medium-low heat, but do not bring the liquid to a boil. Using a spider skimmer, scoop the potatoes out of the water and strain them, letting all of the water drain out. Empty any excess water from the pot.Add the butter to the pot of potatoes and mash the ingredients with the potato masher."
+            },
+            {
+                "recipeName": "Pink Grapefruit and Avocado Salad",
+                "recipeImg": "https://www.foodandwine.com/thmb/tvO5s2gX4MsPWETcjlRAwgEL6TM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201011-xl-pink-grapefruit-and-avocado-salad-bc58a373e6b24f998baa36b1d6de65d1.jpg",
+                "ingredients": ["Ruby grapefruits","White wine vinegar","Hass avocados", "Ground pepper", "Chervil leaves"],
+                "cooking": "Using a sharp knife, cut the skin and all of the bitter white pith off of the grapefruits. Working over a bowl, cut in between the membranes to release the sections. Squeeze the juice from the membranes into the bowl. Transfer 2 tablespoons of the juice to another bowl. Add the zest, shallot and vinegar; let the dressing stand for 10 minutes. Season the avocado with salt and arrange on plates with the grapefruit sections. Stir the oil into the dressing; season with salt and pepper. Drizzle onto the grapefruit and avocado, garnish with the chervil and serve."
+            }
+        ],
+        "rating": "4.4"
+    },
+    {
+        "id": "5",
+        "name": "Nancy Silverton",
+        "image": "https://media.lacucinaitaliana.com/photos/5f6defd730cad3114e82fa82/2:1/w_1200,c_limit/Nancy%20Silverton%20sept%202020.jpg",
+        "experience": "14 Years",
+        "numberOfRecipe": "16",
+        "likes": "114k",
+        "description": "Michelin-starred chef and artisan baker Nancy Silverton owns the Mozza restaurant group, which includes various branches of Osteria Mozza, Pizzeria Mozza, gourmet takeout Mozza2Go and Chi Spacca. Her flagship LA branch of Osteria Mozza has held one Michelin star since 2008. She rose to fame in the 1990s as co-owner and pastry chef at La Brea bakery, where she helped popularise artisan bread in the United States with her hand-shaped, double-proved bread. ",
+        "recipes":[
+            {
+                "recipeName": "Roasted Cabbage",
+                "recipeImg": "https://images.ctfassets.net/3s5io6mnxfqz/2tUg4UUfDSSdM4wsT3TGkD/b348d988332d561add785ab406b477f4/Hale_Crenn_FoodShoot_122.jpg?w=828",
+                "ingredients": ["Cabbage","parsley","Sauerkraut", "Sherry vinegar", "Lemon juice"],
+                "cooking": "Sear the cabbage, occasionally spooning oil from the pan over the wedges. Make parsley oil by combining grapeseed oil and fresh parsley in a blender, then straining it through a fine-mesh strainer lined with a coffee filter. Squeeze the liquid from four tablespoons of sauerkraut, then bring the liquid to a simmer before whisking in crème fraîche, sherry vinegar, and lemon juice. Warm the sauerkraut in a separate pan. To serve, place the roasted cabbage and warmed saurkraut next to each other in the center of the plate. Pour the parsley oil crème fraîche sauce around one side of the roasted cabbage."
+            },
+            {
+                "recipeName": "French Casserole—With Veggies",
+                "recipeImg": "https://robbreport.com/wp-content/uploads/2022/03/Hale_Crenn_Vegetable_Parmentier.jpg?w=1000",
+                "ingredients": ["Gold potatoes","Butter","Squash and Zucchini", "Vegetable stock", "Comte cheeze"],
+                "cooking": "The mashed potatoes placed in a medium pot and cover them with at least 1 inch of cold water. Bring the water to a boil over medium-high heat, then lower the heat to medium in order to maintain a simmer. Cook the potatoes until they’re soft and tender when tested with a knife, about 15 to 20 minutes. In a small saucepan, warm the milk over medium-low heat, but do not bring the liquid to a boil. Using a spider skimmer, scoop the potatoes out of the water and strain them, letting all of the water drain out. Empty any excess water from the pot.Add the butter to the pot of potatoes and mash the ingredients with the potato masher."
+            },
+            {
+                "recipeName": "Pink Grapefruit and Avocado Salad",
+                "recipeImg": "https://www.foodandwine.com/thmb/tvO5s2gX4MsPWETcjlRAwgEL6TM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201011-xl-pink-grapefruit-and-avocado-salad-bc58a373e6b24f998baa36b1d6de65d1.jpg",
+                "ingredients": ["Ruby grapefruits","White wine vinegar","Hass avocados", "Ground pepper", "Chervil leaves"],
+                "cooking": "Using a sharp knife, cut the skin and all of the bitter white pith off of the grapefruits. Working over a bowl, cut in between the membranes to release the sections. Squeeze the juice from the membranes into the bowl. Transfer 2 tablespoons of the juice to another bowl. Add the zest, shallot and vinegar; let the dressing stand for 10 minutes. Season the avocado with salt and arrange on plates with the grapefruit sections. Stir the oil into the dressing; season with salt and pepper. Drizzle onto the grapefruit and avocado, garnish with the chervil and serve."
+            }
+        ],
+        "rating": "5"
+    },
+    {
+        "id": "6",
+        "name": "Leah Chase",
+        "image": "https://media.newyorker.com/photos/590975f3019dfc3494ea2baf/master/w_2560%2Cc_limit/Anderson-Queen-of-Creole-Cooking.jpg",
+        "experience": "8 Years",
+        "numberOfRecipe": "10",
+        "likes": "85k",
+        "description": "Chef and civil rights campaigner Leah Chase, known as the Queen of Creole Cuisine, was chef-proprietor of New Orleans restaurant Dooky Chase’s, an important meeting place for Civil Rights activists in the 60s. Chase has won numerous awards for her cooking, including a James Beard Lifetime Achievement award, while Dooky Chase’s was named one of the 40 most important restaurants of the past 40 years by Food & Wine. ",
+        "recipes":[
+            {
+                "recipeName": "Roasted Cabbage",
+                "recipeImg": "https://images.ctfassets.net/3s5io6mnxfqz/2tUg4UUfDSSdM4wsT3TGkD/b348d988332d561add785ab406b477f4/Hale_Crenn_FoodShoot_122.jpg?w=828",
+                "ingredients": ["Cabbage","parsley","Sauerkraut", "Sherry vinegar", "Lemon juice"],
+                "cooking": "Sear the cabbage, occasionally spooning oil from the pan over the wedges. Make parsley oil by combining grapeseed oil and fresh parsley in a blender, then straining it through a fine-mesh strainer lined with a coffee filter. Squeeze the liquid from four tablespoons of sauerkraut, then bring the liquid to a simmer before whisking in crème fraîche, sherry vinegar, and lemon juice. Warm the sauerkraut in a separate pan. To serve, place the roasted cabbage and warmed saurkraut next to each other in the center of the plate. Pour the parsley oil crème fraîche sauce around one side of the roasted cabbage."
+            },
+            {
+                "recipeName": "French Casserole—With Veggies",
+                "recipeImg": "https://robbreport.com/wp-content/uploads/2022/03/Hale_Crenn_Vegetable_Parmentier.jpg?w=1000",
+                "ingredients": ["Gold potatoes","Butter","Squash and Zucchini", "Vegetable stock", "Comte cheeze"],
+                "cooking": "The mashed potatoes placed in a medium pot and cover them with at least 1 inch of cold water. Bring the water to a boil over medium-high heat, then lower the heat to medium in order to maintain a simmer. Cook the potatoes until they’re soft and tender when tested with a knife, about 15 to 20 minutes. In a small saucepan, warm the milk over medium-low heat, but do not bring the liquid to a boil. Using a spider skimmer, scoop the potatoes out of the water and strain them, letting all of the water drain out. Empty any excess water from the pot.Add the butter to the pot of potatoes and mash the ingredients with the potato masher."
+            },
+            {
+                "recipeName": "Pink Grapefruit and Avocado Salad",
+                "recipeImg": "https://www.foodandwine.com/thmb/tvO5s2gX4MsPWETcjlRAwgEL6TM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201011-xl-pink-grapefruit-and-avocado-salad-bc58a373e6b24f998baa36b1d6de65d1.jpg",
+                "ingredients": ["Ruby grapefruits","White wine vinegar","Hass avocados", "Ground pepper", "Chervil leaves"],
+                "cooking": "Using a sharp knife, cut the skin and all of the bitter white pith off of the grapefruits. Working over a bowl, cut in between the membranes to release the sections. Squeeze the juice from the membranes into the bowl. Transfer 2 tablespoons of the juice to another bowl. Add the zest, shallot and vinegar; let the dressing stand for 10 minutes. Season the avocado with salt and arrange on plates with the grapefruit sections. Stir the oil into the dressing; season with salt and pepper. Drizzle onto the grapefruit and avocado, garnish with the chervil and serve."
+            }
+        ],
+        "rating": "4.2"
+    }
+]
+    
